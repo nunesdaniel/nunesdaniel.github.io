@@ -16,10 +16,10 @@ timezone: America/Sao_Paulo
 
 title: Daniel Nunes # the main title
 
-tagline: Blog criado com o intuito de trocar conhecimento com a comunidade e apoiar meu aprendizado. Aqui, você encontrará posts sobre segurança da informação, Linux, etc. # it will display as the subtitle
+tagline: Blog criado com o intuito de trocar conhecimento com a comunidade e apoiar meu aprendizado. Aqui, você encontrará posts sobre tecnologia e segurança da informação, Linux, etc. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Blog criado com o intuito de trocar conhecimento com a comunidade e apoiar meu aprendizado. Aqui, você encontrará posts sobre segurança da informação, Linux, etc.
+  Blog criado com o intuito de trocar conhecimento com a comunidade e apoiar meu aprendizado. Aqui, você encontrará posts sobre tecnologia e segurança da informação, Linux, etc.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
